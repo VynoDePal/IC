@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5d4a874-81e3-4bc6-ba92-73867c890c0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Internet-Cafe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/accounts/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/accounts/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/cyber/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/cyber/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/payments/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/payments/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internet_cafe/applications/session/serializers.py" afterDir="false" />
-    </list>
+    <list default="true" id="b5d4a874-81e3-4bc6-ba92-73867c890c0e" name="Changes" comment="Feat: sends the first version of the Internet Coffee projet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +54,39 @@
       <option name="presentableId" value="Default" />
       <updated>1707844643154</updated>
     </task>
+    <task id="LOCAL-00001" summary="Feat: sends the first version of the Internet Coffee projet">
+      <option name="closed" value="true" />
+      <created>1711187026560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711187026560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feat: sends the first version of the Internet Coffee projet">
+      <option name="closed" value="true" />
+      <created>1711187050926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711187050926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: sends the first version of the Internet Coffee projet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: sends the first version of the Internet Coffee projet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
